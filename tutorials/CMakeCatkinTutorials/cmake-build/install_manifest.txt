@@ -1,0 +1,3 @@
+/usr/local/bin/example6
+/usr/local/include/include/otherFile.h
+/usr/local/share/doc/plot.png

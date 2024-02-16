@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/example6.dir/src/main.cpp.o  -o example6  liblibmyCode.a 

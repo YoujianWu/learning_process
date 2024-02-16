@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kook/CMakeCatkinTutorials/Example_06_Install/include/otherFile.h
+iostream
+-
+
+/home/kook/CMakeCatkinTutorials/Example_06_Install/src/otherFile.cpp
+otherFile.h
+/home/kook/CMakeCatkinTutorials/Example_06_Install/src/otherFile.h
+

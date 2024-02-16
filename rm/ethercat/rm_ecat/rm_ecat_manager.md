@@ -1,0 +1,3 @@
+ClearSlaveManagerBase.h定义了ClearSlaveManagerBase类
+
+ClearSlaveManagerBaseImpl.h实现了ClearSlaveManagerBase里的部分函数，Impl意味着以一种DOM树形结构实现一个对象，这个头文件就是详细实现了ClaearSlaveManagerBase里的函数。
