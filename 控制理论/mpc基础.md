@@ -2,7 +2,9 @@
 
 ### 介绍
 
-https://zhuanlan.zhihu.com/p/99409532
+[原理](https://zhuanlan.zhihu.com/p/99409532)
+
+[简单理解mpc](https://wjrsbu.smartapps.cn/pages/answer/index?id=3300261966&isshared=1&bdswankey=vivobrowser%3A%2F%2Fswan%2Fofx3nbddn6gwf3vb0wh7edbmbxrttcfe%2Fzhihu%2Fanswer%3Fid%3D3300261966%26from%3D1599_n_6%2540ghbl1m8zk_1_n%26searchparams%3D%257b%2522failurl%2522%253a%2522https%253a%255c%252f%255c%252fwww.zhihu.com%255c%252fquestion%255c%252f630545682%255c%252fanswer%255c%252f3300261966%2522%257d%26usetpl%3D1&_swebfr=1)
 
 模型预测控制（MPC）是一种控制方法，它利用一个已知的模型，根据系统**当前的状态和期望的输出**，来**预测和优化系统未来的控制量**。
 
