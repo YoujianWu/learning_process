@@ -25,7 +25,7 @@ network:
   version: 2
 ```
 
-![](../../../pictures/7153_1699880057_hd.jpeg)
+![](../../../images/7153_1699880057_hd.jpeg)
 
 
 
@@ -34,7 +34,7 @@ network:
 - 将EtherCat连接自己的电脑
 - 将自己的网络设置中的IPV4设置如下
 
-![](../../../pictures/7152_1699880052_hd.jpeg)
+![](../../../images/7152_1699880052_hd.jpeg)
 
 
 
