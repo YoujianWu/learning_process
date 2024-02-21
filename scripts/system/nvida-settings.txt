@@ -1,0 +1,16 @@
+Section "Device"
+    Identifier "Device0"
+    Driver "nvidia"
+    VendorName "NVIDIA Corporation"
+    BoardName "NVIDIA GeForce RTX 3060 Laptop GPU"
+    Option "RegistryDwords" "EnableBrightnessControl=1"
+EndSection
+Section "OutputClass"
+    Identifier "nvidia"
+    MatchDriver "nvidia-drm"
+    Driver "nvidia"
+    Option "AllowEmptyInitialConfiguration"
+    ModulePath "/usr/lib/x86_64-linux-gnu/nvidia/xorg"
+EndSection
+
+
